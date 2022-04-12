@@ -1,0 +1,263 @@
+<!--DoctypeHtml-->
+<html>
+  <head>
+        <meta charset="utf-8">
+        <title>
+       Himanshu  Portfolio
+      </title>
+   </head>
+              <body>
+			  <table cellspacing="20">
+			  <tr>
+			  <td> <img src=" C:\Users\hprak\OneDrive\Desktop\Himanshu CV\Himanshu Pic.jpg " alt="Himanshu Profile Picture  " height="200" width="200"></td>
+                  <td>  <h1>  Himanshu Prakash</h1><p><b> <em> Java Trainee <br> Full Stack Java Developer <br> Passoinate Programmer<br>Problem Solver And Logic Builder</em> </b></p>
+				</td>
+			  </tr>
+			  </table>  
+			  
+			  <hr>
+					<table><tr><td><h3>Mobile No:+918002839398<br>
+Email Id: <a href= "mail to:hprakash035@gmal.com">hprakash035@gmail.com </a><br>
+Linkdin Id:<a href="https://www.linkedin.com/in/himanshu-prakash-b920691b9">www.linkedin.com/in/himanshu-prakash-b920691b9</a><br>
+Github Id: <a href= "github.com/hprakash035">github.com/hprakash035 </a><br>
+</h3>
+			</td></td>	<table>	<hr>
+					<p><table border = "1" cellspacing="1" bordercolor="black" bgcolor="white">
+					<th> Objective  </th>
+				<tr><td>	<p style="100%" >To seek the challenging position in IT industry that needs innovation, creativity, dedication and enable me to continue to work 
+                  in a challenging and fast paced environment, leveraging my current knowledge and fostering creativity with many learning opportunities</b></p>
+					</td>
+					</tr>
+					</table></p><hr>
+					
+					
+					<table border = "1" cellspacing="1" bordercolor="black" bgcolor="white">
+				<p>	<th> Summary</th>
+					<tr><td><ul>
+					<li>	<b>3 months </b>training in <b>Core Java Developer </b>at<strong> Naresh I Technology, Hyderabad.</strong></li>
+	<li><b>1 month</b> training in<b> DBMS </b>and<b>SQL</b>by <b>Oracle Academy.</b></li>
+    <li> Good exposure to the Core development in <b>Java Language , JDBC, C,C++
+      And Web Technologies HTML, CSS, JavaScript,JSP, Servlets.</b></li>
+	<li>Certified In <b>Database Designing By Oracle Academy.</b></li>
+	<li>Certified In<b> Database Programming with SQL By Oracle Academy.</b></li>
+	<li>Building trust and valuable working relationship with team.</li>
+	<li>Capable to delve into the new leading Technologies.</li>
+ 	<li>Excellent written and oral communication skills.</li></td></tr>
+					</ul>
+					</table></p>
+					
+					
+					<hr>
+					<p>
+ <table border = "1" cellspacing="2" bordercolor="black" bgcolor="white">
+ <th>Trainings</th>
+ <tr>
+ <td> <strong>Institute </strong> </td>
+ <td> <strong> Technology</strong>  </td>
+ <td>  <strong>Period </strong> </td>
+ </tr>
+ <tr>
+ <td> Naresh I Technologies, Hyderabad </td> 
+ <td> Core Java </td>
+ <td> July 2021 to September 2021 </td>
+ 
+ </tr>
+ <tr>
+ <td>Oracle Academy  </td>
+ <td>  Database Design</td>
+ <td>December 2021 to January 2022  </td>
+ </tr>
+ <td>Oracle Academy  </td>
+ <td> DBMS Programming with SQL </td>
+ <td> December 2021 to January 2022 </td>
+ <tr><td> Naresh I Technologies, Hyderabad</td>
+ <td> JDBC </td>
+ <td> February 2022  to April 2022 </td>
+ </tr>
+ 
+ 
+ </table></p>
+ <hr>
+ 
+ 
+ <p>
+  <table border = "1" cellspacing="2" bordercolor="black" bgcolor="white">
+ <th> <strong> Technical Skills</strong></th>
+ <tr>
+ <td> <strong>Languages</strong> </td>                                              
+ <td>  Java,C,C++  </td>
+ <td>★★★★★</td>
+ 
+  
+ </tr>
+ <tr>
+ <td> <strong> Web Technologies</strong> </td> 
+ <td> HTML ,CSS , JavaScript, Servlet and JSP </td>
+ <td>★★★★</td>
+ 
+ 
+ </tr>
+ <tr>
+ <td><strong> Databases </strong> </td>
+ <td>  My SQL</td>
+ <td>★★★</td>
+ 
+ </tr>
+ <tr>
+ <td> <strong>IDEs</strong> </td>
+ <td>  Eclipse ,Atom  </td>
+ <td>★★★★</td>
+ 
+ </tr>
+ <tr>
+ <td> <strong>Operating Systems </strong> </td>
+ <td>  Windows XP, Windows 7, 8,8.1,10,11</td>
+ <td>★★★★★</td>
+ 
+ </tr>
+ <tr>
+ <td> <strong>Editors </strong> </td>
+ <td> <Edit++,Notepad, Notepad++  </td>
+ <td>★★★★★</td>
+ 
+ </tr>
+ </table></p>
+ 
+ <hr>
+ <p>
+  <table border = "1" cellspacing="2" bordercolor="black" bgcolor="white">
+ <th> <strong> Academic Credentials</strong></th>
+ <tr>
+ <td> <strong>Degree</strong> </td>  
+<td> <strong>Year</strong> </td> 
+<td> <strong>Board/University</strong> </td> 
+<td> <strong>Percentage</strong> </td>  
+ 
+ 
+ </tr>
+ <tr>
+ <td> MCA</td>
+ <td> 2023</td>
+ <td> Galgotias University, Greater Noida </td>
+ <td> Pursuing </td>
+ 
+ 
+ </tr>
+ <tr>
+  <td> BCA</td>
+ <td> 2020</td>
+ <td> Guru Govind Singh Indraprastha University,New Delhi </td>
+ <td> 81.4%</td>
+ 
+ </tr>
+ <tr>
+ <td> Intermediate</td>
+ <td> 2017</td>
+ <td> Jharkhand Academic Council, Ranchi </td>
+ <td> 67.2%</td>
+ 
+ </tr>
+ <tr>
+ <td> Matriculation</td>
+ <td> 2015</td>
+ <td> Jharkhand Academic Council, Ranchi</td>
+ <td> 74.6%</td>
+ 
+ </tr>
+ 
+ </table></p>
+ <hr>
+ <p>
+  <table border = "1" cellspacing="2" bordercolor="black" bgcolor="white">
+ <th> <strong> Projects</strong></th>
+ <tr>
+ <td> <strong>Title</strong> </td>                                              
+ <td>  <strong>Technology </strong></td>
+ 
+  
+ </tr>
+ <tr>
+ <td> Student Management </td>
+  <td> Core Java </td>
+ 
+ 
+ </tr>
+ <tr>
+<td>  ATM Transaction</td>
+ <td> Core Java </td>
+ 
+ </tr>
+ <tr>
+ <td> Guest House Management</td>
+ <td>  Core Java   </td>
+ 
+ </tr>
+ <tr>
+ <td> Library Management </td>
+ <td>  Core Java + JDBC</td>
+ 
+ </tr>
+ 
+ </table></p>
+ <hr>
+ <p>
+  <table border = "1" cellspacing="2" bordercolor="black" bgcolor="white">
+ <th> <strong> Personal Details</strong></th>
+ <tr>
+ <td> <strong>Date of Birth</strong> </td>                                              
+ <td>  26 February  2001  </td>
+ 
+  
+ </tr>
+ <tr>
+ <td> <strong> Father’s Name</strong> </td> 
+ <td> Suraj Prakash</td>
+ 
+ 
+ </tr>
+ <tr>
+ <td><strong> Languages Known</strong> </td>
+ <td> Hindi, English </td>
+ 
+ </tr>
+ <tr>
+ <td> <strong>Marital Status</strong> </td>
+ <td>  Unmarried  </td>
+ 
+ </tr>
+ <tr>
+ <td> <strong>Hobbies</strong> </td>
+ <td>  Travelling, Listening Music  and Playing Cricket</td>
+ 
+ </tr>
+ <tr>
+ <td> <strong>Address </strong> </td>
+ <td> 96-c,b-10 Udaygiri Apartments ,Block B,Sector34, Noida, UP  </td>
+ 
+ </tr>
+ </table></p>
+ <hr>
+ <style>
+
+p {text-align: center;}
+</style>
+
+<p >
+<strong> I hereby declare that all the information given above is true and correct to the best of my knowledge.</p></strong>
+<table>
+<tr>
+<td><p style="text-align:left"><i><strong> Place:........<br>
+</tr>
+<tr>
+<td><p style="text-align:left"><i><strong>Date:.........<strong></i></p></td>
+
+</tr>
+</table>
+<p style="text-align:"></i>  <div align="right"><strong><i>(Himanhsu Prakash)</i></strong></div><strong></p>
+ 
+  
+ 
+      
+					
+              </body>
+</html>
